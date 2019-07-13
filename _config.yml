@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Baruch Schieber"
   avatar           : "profile.png"
-  bio              : "I am a Professor in the Department of Computer Science at NJIT, and currently serve as the Chair of the Department. Previously, I was at IBM Research. My last role there was Maneger, Mathematics of AI."
+  bio              : "Professor and Chair, 
+                      Department of Computer Science, 
+                      New Jersey Institute of Technology (NJIT)"
   location         : "Newark, New Jersey, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
