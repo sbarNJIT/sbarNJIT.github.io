@@ -2,10 +2,10 @@
 main:
 
   - title: "Publications"
-    url: /publications/
+#   url: /publications/
+    url: /files/Publications201907.pdf
     
-  - title: "Contact"
-    url: /contact/
+ 
 
 #  - title: "Talks"
 #    url: /talks/    
