@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor in the [Department of Computer Science] (https://cs.njit.edu/) at New Jersey Institute of Technology ([NJIT] (https://www.njit.edu/)). Previously, I was at [IBM Research] (https://research.ibm.com/). My last role at IBM was Manager, Mathematics of AI.
+I am a professor in the [Department of Computer Science](https://cs.njit.edu/) at New Jersey Institute of Technology ([NJIT](https://www.njit.edu/)). Previously, I was at [IBM Research](https://research.ibm.com/). My last role at IBM Research was Manager, Mathematics of AI.
 
-Email:
-======
-sbar at njit.edu
+:e-mail: sbar at njit.edu
 
-Phone:
-======
-973-596-5497
+:telephone_receiver: 973-596-5497
 
-[LinkedIn] (https://www.linkedin.com/in/baruch-schieber-0b3b9214b)
-==========
+[LinkedIn](https://www.linkedin.com/in/baruch-schieber-0b3b9214b)
+
