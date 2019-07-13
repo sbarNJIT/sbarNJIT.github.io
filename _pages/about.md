@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor in the [Department of Computer Science](https://cs.njit.edu/) at New Jersey Institute of Technology ([NJIT](https://www.njit.edu/)). Previously, I was at [IBM Research](https://research.ibm.com/). My last role at IBM Research was Manager, Mathematics of AI.
+I am a professor in the [Department of Computer Science](https://cs.njit.edu/) at New Jersey Institute of Technology ([NJIT](https://www.njit.edu/)). I currently serve as the the department chair. Previous to NJIT I was at [IBM Research](https://research.ibm.com/). My last role at IBM Research was Manager, Mathematics of AI.
 
 :e-mail: sbar at njit.edu
 
